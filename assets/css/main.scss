@@ -59,7 +59,8 @@ p.venue{
 }
 p.award{
     // color:rgba(22, 99, 62, 1);
-    color: rgba(255, 203, 5, 1);
+    // color: rgba(255, 203, 5, 1);
+    color: rgba(250, 50, 50, 0.9);
     // color: #fcc729;
 }
 
@@ -178,7 +179,9 @@ p.minor{ margin-left: 1em}
       padding: 0 25px;
       font-weight: 100;
       line-height: 25px;
-      text-transform: none; }
+      text-transform: none;
+      color: #006400;
+    }
 }
 @media screen and (max-width:768px) {
     .section{
@@ -194,3 +197,4 @@ p.minor{ margin-left: 1em}
         width: 100%;
     }
 }
+
