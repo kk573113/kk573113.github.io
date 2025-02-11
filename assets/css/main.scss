@@ -130,7 +130,9 @@ a{
     margin-top: 0em; 
     margin-bottom: 0em; 
 }
-p.major{ margin-top: 0.5em}
+p.major{ 
+    padding-bottom: 10px;
+    margin-top: 0.5em}
 p.minor{ margin-left: 1em}
 #bio{
     margin-top: -60px;
