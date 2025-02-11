@@ -87,7 +87,8 @@ hr.sep {
     z-index: 20;
     width: 100%;
     height: 60px; // need a magic number here which may break in different viewports
-    margin-top:-18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .greedy-nav{
     background: #FFFFFF;  // set a color to hide content that may appear below masthead
