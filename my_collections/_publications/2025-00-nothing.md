@@ -1,12 +1,12 @@
 ---
 id: 1
-title: 'Nothing Here Yet!'
+title: 'Verification of LLM-based Linguistic Interpretability of 5G DMRS Signals'
 index: C01
-authors: <strong><u>Min Kim</u></strong>
-venue: <strong>NOTHING 2025</strong>
+authors: <strong><u>Seongae Kang</u></strong>/Woonggyu Min/Seungyeon Lee/Juyeop Kim/Ohyun Jo
+venue: <strong>KICS Summer Conference 2025</strong>
 vtype: conference
 year: 2025
-ptype: Full Paper
-file: /assets/files/paperEx.pdf
+ptype: Short Paper
+file: /assets/files/C01.pdf
 ---
 
