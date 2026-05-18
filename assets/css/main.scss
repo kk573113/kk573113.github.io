@@ -49,15 +49,22 @@ search: false
 
 
 
-.section_title{
-    font-family:  'Kantumruy Pro',  sans-serif;
-    font-size: 30px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-
-    //color: #FFCB05;
+.section {
+    width: 85%;
+    margin-top: 0;
+    margin-bottom: 45px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
+.section_title {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 18px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
 .my_paper{
     font-family: 'Kantumruy Pro', sans-serif;
     font-size:  14px;
@@ -173,13 +180,7 @@ a{
 #pub{
     width: 100%;
 }
-.section{
-    width: 85%;
-    padding-top: 0;
-    padding-bottom: 0;
-    margin-top: 0;
-    margin-bottom: 0;
-}
+
 .section > p{
     font-family: 'Kantumruy Pro', sans-serif;
     font-size: 20px;
